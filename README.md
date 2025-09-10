@@ -1,4 +1,4 @@
-An application to track and display the number of coffee shots and sugar amounts in a coffee.
+**An application to track and display the number of coffee shots and sugar amounts in a coffee**
 
 This is a fully working sandbox Flutter application created to demonstrate core Flutter development skills for My Venue.
 
