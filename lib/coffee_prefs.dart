@@ -50,9 +50,8 @@ class _CoffeePrefsState extends State<CoffeePrefs> {
         ),
         Row(
           children: [
-            // const StyledBodyText('Sugar: '),
             const SizedBox(
-              width: 120, // 👈 fixed width for label area
+              width: 120,
               child: Align(
                 alignment: Alignment.centerRight,
                 child: StyledBodyText('Sugar: '),
